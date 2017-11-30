@@ -4,7 +4,7 @@ return array(
 	'plugin' => array(
 		'name'        => '获取BDUSS工具插件',            //插件名称，必填
 		'version'     => '1.0',                 //插件版本号
-		'description' => '激活此插件后将在 [手动绑定] 页面显示BDUSS工具获取BDUSS的方法并提供工具下载. 获取工具由 @mokeyjay 制作',  //插件描述
+		'description' => '激活此插件后将在 [手动绑定] 页面显示BDUSS工具获取BDUSS的方法并提供工具下载. 获取工具由 @WGzeyu 制作',  //插件描述
 		'onsale'      =>  true,                 //bool 插件是否已在产品中心上架
 		'url'         => 'http://www.mokeyjay.com/archives/731',  //插件地址，比如哪里可以下载到这个插件
 		'for'         => 'all',                 //适用的云签到版本，all为所有版本，版本后面跟+表示适用于该版本或更高版本，如V4.0+

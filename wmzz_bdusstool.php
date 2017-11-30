@@ -11,7 +11,7 @@ wmzz_bdusstool_data += '<div class="panel-heading" onclick="$(\'#wmzz_bdusstool_
 wmzz_bdusstool_data += '<div class="panel-body" id="wmzz_bdusstool_area" style="display:none">';
 wmzz_bdusstool_data += '1.<a href="plugins/wmzz_bdusstool/bdusstool.exe">点击此处下载 贴吧BDUSS获取器</a>';
 wmzz_bdusstool_data += '<br/><br/>2.请运行此程序，按照要求登录百度，然后将获取到的 BDUSS 填入上面的表单即可';
-wmzz_bdusstool_data += '<br/><br/>本软件由 @mokeyjay 制作；易语言程序，杀软可能会误报';
+wmzz_bdusstool_data += '<br/><br/>本软件由 @WGzeyu 制作；易语言程序，杀软可能会误报';
 wmzz_bdusstool_data += '</div>';
 wmzz_bdusstool_data += '</div>';
 wmzz_bdusstool_in.html(wmzz_bdusstool_in.html() + wmzz_bdusstool_data);
